@@ -7,8 +7,6 @@ Specially, we use **Roulette Wheel Selection** method for our *Selection*, and o
 
 City data was stored in `data`, you can add your fomatted input in this area.
 
-All Slides and Exercises can be find in [Topics in IT-III (K1, AD)](http://www.ritsumei.ac.jp/~gulliver/it3/)
-
 All code were commited, enjoy them : )
 
 ## Table of Contents
