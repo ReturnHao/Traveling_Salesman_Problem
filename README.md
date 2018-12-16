@@ -24,12 +24,12 @@ Project requires the following to run:
 
 * python 3.6
 
-following libraries may need download:
+and following libraries was needed:
 
-* numpy
-* pandas
 * matplotlib
+* numpy
 * os
+* pandas
 
 ## Usage
 
